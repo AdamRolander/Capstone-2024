@@ -1,0 +1,2 @@
+- Limit Order Book (LOB) dataset for the Binance (BNB) token
+- Roughly 10,000 datapoints occurring over span of ~12 mins
