@@ -1,4 +1,4 @@
-- I completed 7 previous 'trials'
+- I completed 8 total 'trials'
     - Some used Standard Scaler (Z-score element wise rescaling) and resulted in gradient explosion with unsatisfactory results. Therefore, this code was not included.
     - Other trials were performed on a subset of the dataset included in this repo
 
